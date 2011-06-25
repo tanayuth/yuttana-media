@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Wongnai Contact Us feature.
+ */
+
+include_once('wongnai_contact_us.features.inc');
